@@ -4,7 +4,7 @@ Donate link: https://developer.emspay.eu
 Tags: ems, emspay, payments, woocommerce, e-commerce, webshop, psp, ideal, sofort, credit card, creditcard, visa, mastercard, masterpass, bancontact, bitcoin, paysafecard, direct debit, incasso, sepa, banktransfer, overboeking, betalingen, klarna
 Requires at least: 4.4
 Tested up to: 4.7.2
-Stable tag: 1.0.24
+Stable tag: 1.0.25
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -71,3 +71,6 @@ Automatic updates should work flawlessly; as always though, ensure you backup yo
  
 = 1.0.24 =
 * test realeas 24
+ 
+= 1.0.25 =
+* test deploy 25
